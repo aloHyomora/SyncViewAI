@@ -6,9 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/XRI Passthrough.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 457f4f0a51a1b8c4f9cc15276b2124cb,
+      type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3bfb7222dacb9514f925fcc8d4614346,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 41e30e82fc3bedd4da153879945dbc2c,
